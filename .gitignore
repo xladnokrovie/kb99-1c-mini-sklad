@@ -1,0 +1,14 @@
+*.cdx
+*.tmp
+*.log
+*.lgf
+*.lgp
+*.cfl
+*.dt
+*.cf
+*.epf
+*.1CD
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
